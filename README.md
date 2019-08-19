@@ -11,4 +11,4 @@ People often use Factory Method as the standard way to create objects; but it is
 
 
 ### Class diagram
-![alt text](https://github.com/abrakitlaw/factory-pattern-learning/blob/master/Screenshot%202019-08-20%20at%2001.08.50.png)
+![alt text](https://github.com/abrakitlaw/factory-pattern-learning/blob/master/Screenshot%202019-08-20%20at%2001.24.06.png)
