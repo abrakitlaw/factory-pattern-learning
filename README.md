@@ -5,3 +5,6 @@ A framework needs to standardize the architectural model for a range of applicat
 Factory Method makes a design more customizable and only a little more complicated. Other design patterns require new classes, whereas Factory Method only requires a new operation.
 
 People often use Factory Method as the standard way to create objects; but it isn't necessary if: the class that's instantiated never changes, or instantiation takes place in an operation that subclasses can easily override (such as an initialization operation).
+
+### Factory Method Pattern
+![alt text](https://github.com/abrakitlaw/factory-pattern-learning/blob/master/Screenshot%202019-08-20%20at%2001.08.50.png)
